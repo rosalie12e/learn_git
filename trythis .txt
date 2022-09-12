@@ -1,1 +1,5 @@
 force add all works. maybe its because it had a space?
+
+it was because it had a space!
+
+then you need to commit it to the local respository
